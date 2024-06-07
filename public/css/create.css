@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;
+    color: #ffc107;
+}
+.needs-validation{
+    border: 2px solid #ffc107;
+    padding: 50px;
+    width: 1300px;
+    border-radius: 20px;
+    display: block;
+}
+.mb-31{
+    margin-left: 500px;
+    font-size: 60px;
+    font-style: oblique;
+}

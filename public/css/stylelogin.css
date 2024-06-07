@@ -1,0 +1,66 @@
+/* loginnnn */
+body {
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* //mzyana hadi*/ 
+  }
+  *{
+   font-family: sans-serif;
+   box-sizing: border-box;
+  }
+  form{
+   width: 500px;
+  
+   border: 2px solid #ffc107; /*l2itarr*/
+   padding: 30px;
+   background: #ffff;
+   border-radius: 15px; /*//l9nati m9wssin*/
+  
+  }
+  
+  
+  h2{
+   text-align: center;
+   margin-bottom: 60px;
+  }
+  input{
+   display: block; /*//affichage verticalrmrnt*/
+   border: 2px solid #ffc107;
+   width: 95%;
+   padding: 10px; /*//la marge dans tous les cotes*/
+   margin: 10px auto; 
+   border-radius: 5px;
+  }
+  label{
+   color: #888;
+   font-size: 18px;
+   padding: 10px;
+  }
+  button{
+   float: right;
+   background: #ffc107;
+   padding: 10px 15px;
+   border-radius: 5px;
+   margin-right: 10px;
+   border: none;
+  }
+  button:hover{
+   opacity: .7; /* z3ma mli thet 3lih l curseur itbdel lon*/
+  
+  
+  }
+  .error{
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+  
+  }
+  a{
+    color: #2f3234;
+    
+    margin-left: 10px;
+  }

@@ -1,0 +1,64 @@
+body{
+    background: black;
+    display: flex; /* had display darrori bach ikhdmo had joj li ltaht*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  /* hadi bach iji dakchi f lwest nit */
+ }
+ *{
+     font-family: sans-serif;
+     box-sizing: border-box;
+ }
+ form{
+     width: 600px;
+     border: 2px solid  #ffc107;
+     padding: 30px;
+     background: #fff;
+     border-radius: 15px;
+ }
+ h1{
+     text-align: center;
+     margin-bottom: 30px;
+     font-size: 40px;
+ }
+ input{
+     display: block;
+     border: 2px solid #ffc107;
+     border-radius: 5px;
+     width: 95%;
+     padding: 10px;
+     margin: 10px  auto; 
+ 
+ }
+ label{
+     color: #888;
+     font-size: 18px;
+     padding: 10px;
+ }
+ button{
+     float: right;
+     border: none;
+     background: #ffc107;
+     padding: 10px;
+     border-radius: 5px;
+     color: #000;
+ }
+ button:hover{
+     opacity: .7;
+ }
+ .error{
+     background: #F2DEDE;
+     color: #A94442;
+     padding: 10px;
+     width: 95%;
+     border-radius: 5px;
+     text-align: center;
+ }
+ .success{
+     background: #acfcdd;
+     color: #166647;
+     padding: 10px;
+     width: 95%;
+     border-radius: 5px;
+     text-align: center;
+ }

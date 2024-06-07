@@ -1,0 +1,338 @@
+.body{
+    background-color: black;
+}
+
+.text-end{
+    margin-right: -6%;
+}
+.nav > li {
+    margin-right: 60px; 
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.logo img {
+    height: 55px;
+    margin-right: 60px;
+    margin-left: -140px;
+    border-radius: 5px;
+    
+}
+.bi{
+    margin-right: 40px;
+}
+.form-control{
+    border-color: #ffc107;
+}
+
+.btn-primary{
+    border-color: #ffc107;
+    color: black;
+    border-color: aliceblue;
+    background-color: #ffc107;
+    
+}
+.py-5{
+    background-color: #212529;
+    justify-content: center;
+    padding: 30px;
+     /* Optionnel : pour supprimer les éventuels padding */
+     /* Optionnel : pour supprimer les éventuels margin */
+   
+    color: #ffc107;
+    
+}
+
+.btn-outline-light{
+    border-color: #ffc107;
+}
+.text-body-secondary{
+    color: #ffc107;
+}
+.footer-logo img {
+    width: 100px; 
+    margin-left: 0px;
+    margin-right: 20px;
+    border-radius: 5px;
+  }
+.container{
+    justify-content: center;
+}
+.carousel-inner{
+    height: 100%;
+    justify-content: center;
+}
+.carousel-inner{
+    height: 420px;
+    width: 100%;
+    color: #ffc107;
+    
+}
+.active{
+    height: 420px;
+    width: 100%;
+    background-color: black;
+}
+#myCarousel{
+    background-color: black;
+    
+}
+.div11{
+    height: 300px;
+    background-color: black;
+    padding: 30px;
+    height: auto;
+    
+}
+.container1{
+    background-color: black;
+    color: #fff; 
+}
+.row1{
+    background-color:black;
+    color: #fff;
+    display: inline-flex;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+.row1 p{
+    text-align: center;
+    color: black;
+}
+
+.rounded-circle{
+    margin-left: 140px;
+    
+}
+.fw-normal{
+    margin-left: 148px;
+    color: #ffc107;
+    
+}
+.row1 p a{
+    text-align: center;
+    background-color: #ffc107;
+    color: black;
+}
+.yellow-text {
+    color: #ffc107 !important;
+}
+
+.yellow-text.active {
+    color: rgb(230, 224, 214) !important; /* Changez cette couleur pour celle que vous voulez pour l'élément actif */
+}
+.create {
+    height: 300px;
+    background-color: black;
+    padding: 30px;
+    height: 900px;
+    padding-top: 70px;
+    
+
+}
+.create button{
+    justify-content: center;
+    margin-left: 40%;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 35px;
+  
+}
+
+.image1{
+    padding-left: -30px;
+    margin-top: 600px;
+    height: 200px;
+}
+.image2{
+    padding-right: 900px;
+    margin-top: 600px;
+    height:210px;
+}
+.image3{
+    padding-left: 600px;
+    margin-top: 700px;
+    height:200px;
+}
+.video2 {
+    width: 200px;
+    height: auto;
+    float: left;
+    margin-left: 1000px;
+    margin-top: -20px;
+    border-radius: 7px;
+}
+.video22 {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin-left: 40%;
+    margin-top: 50px;
+    border-radius: 7px;
+    
+}
+
+.dyalvideo{
+    height: 400px;
+    background-color: black;
+}
+.divvideo{
+    background-color: black;
+    height: auto;
+
+}
+.dyalvideo ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.dyalvideo li {
+    margin: 0 60px;
+}
+.video1{
+    width:800px;
+    height: 800px;
+    float: left;
+    margin-left:10px;
+    margin-top: -290px;
+    border-radius: 60px;
+}
+hr{
+    color:#fff;
+    height: 4px;
+}
+.sahm {
+    margin-left: 0px;
+    margin-top: 200px;
+    background-color: black;
+    
+}
+.tsawer{
+    margin-left: 120px;
+}
+.col-lg-4 p{
+     color: #fff;
+}
+.col-md-7 p{
+    color: #fff;
+}
+.col-md-7 h2{
+    color: #fff;
+}
+.col-md-7 h2 span{
+    color: #ffc107;
+    font-style: italic;
+    font-size: large;
+}
+/* reviews*/
+.review22{
+    background-color: black;
+    height: auto;
+    width: auto;
+    padding: 20px;
+}
+.container1 {
+    background-color:black ;
+    padding: 20px;
+     border: 2px solid #ffc107;
+     border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 400px;
+    margin-left: 35%;
+    border-color: #ffc107;
+}
+ 
+h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #ffc107;
+}
+ 
+.rating {
+    font-size: 20px;
+    margin: 10px 0;
+    color: #ffc107;
+}
+ 
+.stars {
+    font-size: 30px;
+    margin: 10px 0;
+}
+ 
+.star {
+    cursor: pointer;
+    margin: 0 5px;
+}
+ 
+.one {
+    color: rgb(255, 0, 0);
+}
+ 
+.two {
+    color: rgb(255, 106, 0);
+}
+ 
+.three {
+    color: rgb(251, 255, 120);
+}
+ 
+.four {
+    color: rgb(255, 255, 0);
+}
+ 
+.five {
+    color: rgb(24, 159, 14);
+}
+ 
+textarea {
+    width: 90%;
+    padding: 10px;
+    border: 2px solid #ffc107;
+    border-radius: 4px;
+}
+ 
+button {
+    background-color: #ffc107;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+ 
+button:hover {
+    background-color: #2f3234;
+}
+ 
+.reviews {
+    margin-top: 20px;
+    text-align: left;
+}
+ 
+.review {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin: 10px 0;
+}
+ 
+.review p {
+    margin: 0;
+}
+.ray img{
+    border: 1px solid #ffc107;
+    border-radius: 7px;
+    margin-top: 40px;
+}
+.foterlist li{
+    display: block;
+    justify-content: flex-start;
+}
