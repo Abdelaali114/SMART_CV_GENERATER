@@ -1,0 +1,11 @@
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/e0062a56-215c-4999-8ff3-2042a5b09730)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/d776d104-dec4-4d7f-8d7c-f89f05a06c16)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/b88fc1ca-e418-4f15-ab8d-e9965348f20f)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/d081db41-0fbc-461b-9593-d234f8d10fe6)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/92e49247-600e-4e91-9f5e-2061c621b4f4)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/3356a004-623a-4b3a-b458-ee16748ef0c5)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/b6355685-e65a-4159-873e-15e490e47df5)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/add93463-a413-44ba-be3a-df8de893e0e3)
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/be54dc84-f87e-4208-ada1-59fe2b66575d)
+
+![image](https://github.com/Abdelaali114/SMART_CV_GENERATER/assets/150744591/277201bd-bf30-471d-8aa1-739ef7c3405a)
